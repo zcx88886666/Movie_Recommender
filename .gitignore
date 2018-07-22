@@ -1,0 +1,2 @@
+# Ignore the push of the database files *.csv
+*.csv
